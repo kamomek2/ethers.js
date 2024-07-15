@@ -1,0 +1,6 @@
+node_modules/**
+output/**
+misc/**
+
+**/*.swp
+dist/*.gz
